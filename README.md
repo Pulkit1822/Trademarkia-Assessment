@@ -9,8 +9,8 @@
 ---
 
 ## Overview
+This project is part of an assignment for the frontend assessment by the Trademarkia company. It is built with React to demonstrate modern frontend development techniques and practices.
 
-Welcome to my frontend project repository, part of my academic journey! This project is a hands-on experience, built with React, to explore modern frontend development techniques.
 
 ---
 
