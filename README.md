@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="">
-    <img src="" height="128">
+  <a href="https://github.com/Pulkit1822/21BCE11602_Frontend">
+    <img src="https://github.com/Pulkit1822/21BCE11602_Frontend/blob/main/content/logo.jpeg" height="128">
   </a>
 </p>
 
