@@ -49,7 +49,7 @@ Ejects the project to gain full control over configuration files like Webpack, B
 
 ## Deployment
 
-This project is deployed and can be accessed at: [Deployed Link](https://21-bce-11602-frontend.vercel.app/)
+This project is deployed and can be accessed at: [Deployed Link ↗](https://21-bce-11602-frontend.vercel.app/)
 
 ## Learn More
 
