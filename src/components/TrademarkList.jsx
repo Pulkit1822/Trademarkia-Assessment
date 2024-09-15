@@ -268,7 +268,7 @@ const TrademarkList = ({ search }) => {
                 mx="auto"
               >
                 <Image
-                  src={trademark.logo}
+                  src="https://res.cloudinary.com/dh7l9mnkn/image/upload/v1726402428/nike_logo_k4hlc0.png"
                   alt="Trademark Logo"
                   boxSize="3rem" 
                   fallbackSrc={ImgUna}
