@@ -19,7 +19,7 @@ This project is part of an assignment for the frontend assessment by the Tradema
 - **Development Mode**: Start the app locally for development and testing.
 - **Test Integration**: Easily run tests in interactive watch mode.
 - **Production Ready**: Create optimized builds for production deployment.
-- **Customization**: Full control over build configurations after ejecting (if necessary).
+- **Customization**: Full control over build configurations after ejecting.
 
 ---
 
