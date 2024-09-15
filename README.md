@@ -47,6 +47,10 @@ Ejects the project to gain full control over configuration files like Webpack, B
 
 ---
 
+## Deployment
+
+This project is deployed and can be accessed at: [Deployed Link](https://21-bce-11602-frontend.vercel.app/)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
