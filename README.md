@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">21BCE11602 Frontend Project</h1>
+<h1 align="center">Trademarkia-Assessment</h1>
 
 ---
 
